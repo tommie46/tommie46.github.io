@@ -1,0 +1,8 @@
+body {
+	backround-color:#000000;
+}
+
+h1, p {
+	font-family:"Arial", "Helvatica", "Sans-serif";
+	text-indent: 10px;
+}
